@@ -1,10 +1,12 @@
 <div align="center">
-  <h1><strong>Vertex v0.10.1</strong> <img src="https://img.shields.io/badge/Status-Beta-blue" width="75" height="75"></h1> 
+  <h1><strong>Vertex v0.10.1</strong> <img src="https://img.shields.io/badge/Status-Beta-blue" width="75" height="25"></h1> 
   <img src="src/assets/coolbeanbadge.png" width="200" height="200"> 
 </div>
 
 Vertex is a decoupled, state and component driven framework for Roblox player character creation. 
 It is designed to alleviate the burden of how character scripts intertwine, allowing developers to focus on gameplay depth instead of technical debt.
+
+**Vertex is no longer maintained. Please check back later for its successor.**
 
 ## Features
 * **Dynamic Module Discovery**
@@ -26,12 +28,6 @@ Vertex will automatically bind any specified Component functions to their respec
 * **Customizable API & architecture**
 
 Vertex is designed from the ground up to be transparent with how it functions, enabling developers to modify its contents to better fit their own needs.
-
-
-**Future Plans:**
-* Create PhysicsLib
-* Create VFXCore
-* Create Larger Tech demo
 
 ## Quick Start Guide
 <div align="center">
